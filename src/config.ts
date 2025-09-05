@@ -1,10 +1,10 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://chdinesh1089.github.io/",
-  author: "Dinesh Ch",
-  desc: "Dinesh's blog and portfolio website",
-  title: "Dinesh Chidipothu",
+  website: "https://lokesh576.github.io/",
+  author: "Lokesh Kamineni",
+  desc: "Lokesh's blog and portfolio website",
+  title: "Lokesh Kamineni",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -20,7 +20,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/chdinesh1089",
+    href: "https://github.com/lokesh576",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -38,13 +38,13 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/dinesh-ch-404346196/",
+    href: "https://www.linkedin.com/in/lokeshkamineni/",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:kaminelh@mail.uc.edu",
     linkTitle: `Send an email to ${SITE.title}`,
     active: false,
   },
